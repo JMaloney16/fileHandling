@@ -1,0 +1,20 @@
+Flash
+A type of storage with no moving parts
+Constant
+A value that does not change after being set
+Multicore
+A processor which has multiple cores, each core acts like a separate CPU inside the CPU
+RAID
+How secondary storage is combined to increase speed of transfers, capacity or keep all data backed up
+Boolean
+A value which can either be true or false
+Array
+A data structure which can store data
+IDE
+An integrated development environment is a program used for software development
+Linear search
+A method for searching through data in the order it is stored
+Lossless compression
+Compression where no data is lost when the size is reduced
+Runtime error
+An error that occurs in a program while it is running
